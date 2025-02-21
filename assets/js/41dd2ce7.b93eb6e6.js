@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbp_docs=self.webpackChunkbp_docs||[]).push([[551],{9004:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/bookpub/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
